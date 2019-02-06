@@ -1,0 +1,30 @@
+.post-container {
+  color: black;
+  padding: 30px;
+  margin: 10px 0;
+  border-radius: 8px;
+  background: #eef;
+}
+
+.post-container > .content {
+  max-height: 300px;
+  overflow: hidden;
+}
+
+.tags {
+  margin-top: 40px;
+}
+
+.tag {
+  margin-left: 6px;
+}
+
+.see-full {
+  cursor: pointer;
+  float: right;
+  text-decoration: none;
+}
+
+.see-full:hover {
+  opacity: 0.5;
+}

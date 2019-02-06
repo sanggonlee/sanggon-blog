@@ -1,0 +1,60 @@
+import React from "react";
+import { graphql, StaticQuery } from "gatsby";
+import Checkbox from '@material-ui/core/Checkbox';
+
+import FilterContext from '../context/FilterContext';
+
+const Filters = ({ children, toggleFilter }) => {
+  return (
+    <FilterContext.Consumer>
+      {({ filter }) => (
+        <StaticQuery
+          query={graphql`
+            query {
+              allMarkdownRemark {
+                group(field: frontmatter___categories) {
+                  fieldValue
+                  totalCount
+                }
+              }
+            }
+          `}
+          render={({
+            allMarkdownRemark: {
+              group
+            }
+          }) => (
+            <div style={styles.filtersContainer}>
+              <h2>Categories</h2>
+              <div>
+                {
+                  group.map(({ fieldValue }, index) =>
+                    <div key={index}>
+                      <Checkbox
+                        checked={filter[fieldValue]}
+                        onChange={evt => toggleFilter(fieldValue, evt.target.checked)}
+                        value={fieldValue}
+                        color="primary"
+                      />
+                      <span style={{marginRight: 'auto'}}>
+                        {fieldValue}
+                      </span>
+                    </div>
+                  )
+                }
+              </div>
+            </div>
+          )}
+        />
+      )}
+    </FilterContext.Consumer>
+  )
+}
+
+const styles = {
+  filtersContainer: {
+    padding: '20px 10px'
+  }
+};
+
+export default Filters;

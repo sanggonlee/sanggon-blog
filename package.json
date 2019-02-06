@@ -5,6 +5,9 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "@material-ui/core": "^3.9.1",
+    "@reach/router": "^1.2.1",
+    "disqus-react": "^1.0.5",
     "gatsby": "^2.0.76",
     "gatsby-image": "^2.0.20",
     "gatsby-plugin-manifest": "^2.0.9",
@@ -13,6 +16,7 @@
     "gatsby-plugin-sharp": "^2.0.14",
     "gatsby-source-cosmicjs": "0.0.6",
     "gatsby-source-filesystem": "^2.0.13",
+    "gatsby-transformer-remark": "^2.2.0",
     "gatsby-transformer-sharp": "^2.1.8",
     "prop-types": "^15.6.2",
     "react": "^16.6.3",

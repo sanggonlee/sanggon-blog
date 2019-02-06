@@ -1,20 +1,59 @@
-import React from 'react'
-import { Link } from 'gatsby'
+import React from 'react';
 
-import Layout from '../components/layout'
-import Image from '../components/image'
-import SEO from '../components/seo'
+import Layout from '../components/layout';
+import Router from '../components/router';
+import SEO from '../components/seo';
+import Sidebar from '../components/sidebar';
+import FilterContext from '../context/FilterContext';
 
-const IndexPage = () => (
-  <Layout>
-    <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
-    <h1>Hi people</h1>
-    <p>Welcome Sang-gon's blog</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link>
-  </Layout>
-)
+export default class IndexPage extends React.Component {
+  constructor(props) {
+    super(props);
 
-export default IndexPage
+    this.state = {
+      filter: {
+        English: true,
+        한글: true
+      }
+    };
+
+    this.toggleFilter = (field, value) => {
+      this.setState(state => {
+        const newFilter = {
+          ...state.filter,
+          [field]: value,
+        };
+        return {
+          ...state,
+          filter: newFilter,
+        };
+      });
+    }
+  }
+
+  render() {
+    return (
+      <FilterContext.Provider value={this.state}>
+        <Layout>
+          <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
+          <div style={styles.mainContainer}>
+            <div style={styles.router}>
+              <Router />
+            </div>
+            <Sidebar toggleFilter={this.toggleFilter} />
+          </div>
+        </Layout>
+      </FilterContext.Provider>
+    );
+  }
+}
+
+const styles = {
+  mainContainer: {
+    display: 'flex',
+    flexDirection: 'row'
+  },
+  router: {
+    flex: 1,
+  }
+};

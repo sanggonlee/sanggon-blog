@@ -1,0 +1,32 @@
+.post-page {
+  margin: 20px;
+  padding: 30px;
+  border-radius: 8px;
+  background: #eef;
+  font-family: monospace;
+}
+
+.post-page > .title {
+  font-weight: bold;
+  font-size: 32px;
+  margin: 20px 0;
+}
+
+.post-page > .date {
+  margin: 20px 0;
+}
+
+.post-page > .content {
+  margin: 20px 0;
+  background: white;
+  border-radius: 8px;
+  padding: 30px;
+}
+
+.post-page > .tag {
+  color: rgb(92, 150, 210);
+}
+
+.post-page > .comments {
+  margin-top: 20px;
+}
