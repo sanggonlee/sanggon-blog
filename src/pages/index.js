@@ -6,6 +6,8 @@ import SEO from '../components/seo';
 import Sidebar from '../components/sidebar';
 import FilterContext from '../context/FilterContext';
 
+import './index.css';
+
 export default class IndexPage extends React.Component {
   constructor(props) {
     super(props);
@@ -36,8 +38,8 @@ export default class IndexPage extends React.Component {
       <FilterContext.Provider value={this.state}>
         <Layout>
           <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
-          <div style={styles.mainContainer}>
-            <div style={styles.router}>
+          <div className="main-container">
+            <div className="router">
               <Router />
             </div>
             <Sidebar toggleFilter={this.toggleFilter} />
@@ -47,13 +49,3 @@ export default class IndexPage extends React.Component {
     );
   }
 }
-
-const styles = {
-  mainContainer: {
-    display: 'flex',
-    flexDirection: 'row'
-  },
-  router: {
-    flex: 1,
-  }
-};

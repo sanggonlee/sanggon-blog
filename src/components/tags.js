@@ -1,6 +1,8 @@
 import React from "react";
 import { graphql, StaticQuery } from "gatsby";
 
+import './tags.css';
+
 const Tags = ({ children }) => {
   return (
     <StaticQuery
@@ -19,9 +21,9 @@ const Tags = ({ children }) => {
           group
         }
       }) => (
-        <div style={styles.tagsContainer}>
+        <div className="tags-container">
           <h2>Tags</h2>
-          <div>
+          <div className="tags">
             {
               group.map(({ fieldValue, totalCount }, index) => 
                 <div key={index}>
@@ -35,11 +37,5 @@ const Tags = ({ children }) => {
     />
   )
 }
-
-const styles = {
-  tagsContainer: {
-    padding: '20px 10px'
-  }
-};
 
 export default Tags;

@@ -1,0 +1,17 @@
+.tags-container {
+  padding: 20px 10px;
+}
+
+@media (max-width: 600px) {
+  .tags-container {
+    padding: 4px;
+  }
+
+  .tags-container > h2 {
+    margin-bottom: 0;
+  }
+
+  .tags-container > .tags {
+    margin: 12px;
+  }
+}

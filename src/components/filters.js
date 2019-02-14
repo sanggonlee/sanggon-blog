@@ -4,6 +4,8 @@ import Checkbox from '@material-ui/core/Checkbox';
 
 import FilterContext from '../context/FilterContext';
 
+import './filters.css';
+
 const Filters = ({ children, toggleFilter }) => {
   return (
     <FilterContext.Consumer>
@@ -24,7 +26,7 @@ const Filters = ({ children, toggleFilter }) => {
               group
             }
           }) => (
-            <div style={styles.filtersContainer}>
+            <div className="filters-container">
               <h2>Categories</h2>
               <div>
                 {
@@ -50,11 +52,5 @@ const Filters = ({ children, toggleFilter }) => {
     </FilterContext.Consumer>
   )
 }
-
-const styles = {
-  filtersContainer: {
-    padding: '20px 10px'
-  }
-};
 
 export default Filters;

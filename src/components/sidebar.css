@@ -1,0 +1,15 @@
+.sidebar {
+  flex: 0 1 120px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+
+@media (max-width: 600px) {
+  .sidebar {
+    width: 100%;
+    order: 1;
+    margin-left: 0;
+    flex: 1;
+  }
+}

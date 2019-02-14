@@ -1,0 +1,18 @@
+.main-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.router {
+  flex: 1;
+}
+
+@media (max-width: 600px) {
+  .main-container {
+    flex-direction: column;
+  }
+
+  .router {
+    order: 2;
+  }
+}

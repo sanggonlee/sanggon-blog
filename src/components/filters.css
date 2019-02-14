@@ -1,0 +1,13 @@
+.filters-container {
+  padding: 20px 10px;
+}
+
+@media (max-width: 600px) {
+  .filters-container {
+    padding: 4px;
+  }
+
+  .filters-container > h2 {
+    margin-bottom: 0;
+  }
+}
