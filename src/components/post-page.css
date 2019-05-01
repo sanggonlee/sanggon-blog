@@ -9,7 +9,8 @@
 .post-page > .title {
   font-weight: bold;
   font-size: 32px;
-  margin: 20px 0;
+  max-width: 1000px;
+  margin: 20px auto;
 }
 
 .post-page > .date {

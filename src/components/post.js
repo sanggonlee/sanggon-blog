@@ -16,8 +16,6 @@ export default ({ node }) => {
       <div className="post-container">
         <h2>{ title }</h2>
         <h3>{ date }</h3>
-        <div className="content" dangerouslySetInnerHTML={renderHtml(node.html)}></div>
-        <div>...</div>
         <div className="tags">
           Tags:
           {
@@ -28,6 +26,8 @@ export default ({ node }) => {
             )
           }
         </div>
+        <div className="content" dangerouslySetInnerHTML={renderHtml(node.html)}></div>
+        <div>...</div>
         <Link className="see-full" to={kebabCase(title)}>
           See in full page
         </Link>
