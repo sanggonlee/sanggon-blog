@@ -19,10 +19,15 @@
   margin-left: 6px;
 }
 
+.tag:hover {
+  opacity: 0.5;
+}
+
 .see-full {
   cursor: pointer;
   float: right;
   text-decoration: none;
+  color: rgb(121, 182, 242);
 }
 
 .see-full:hover {

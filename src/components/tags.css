@@ -2,6 +2,20 @@
   padding: 20px 10px;
 }
 
+.tags-container > .tags {
+  color: rgb(121, 182, 242);
+}
+
+.tags-container > .tags > .tag:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.tags-container > .tags > .selected {
+  font-weight: bold;
+  font-style: italic;
+}
+
 @media (max-width: 600px) {
   .tags-container {
     padding: 4px;

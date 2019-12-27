@@ -1,8 +1,9 @@
-import React from 'react';
+import React from 'react'
 
 const FilterContext = React.createContext({
-  filter: {},
-  toggleFilter: () => {}
-});
+  state: {},
+  toggleFilter: () => {},
+  filterByTag: () => {},
+})
 
-export default FilterContext;
+export default FilterContext
