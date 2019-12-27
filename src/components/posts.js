@@ -33,28 +33,29 @@ const Posts = ({ children }) => {
                 }
               }
             `}
-            render={({ allMarkdownRemark: { edges, totalCount } }) => (
-              <div>
-                <h4>{totalCount} Posts</h4>
+            render={({ allMarkdownRemark: { edges, totalCount } }) => {
+              const posts = edges
+                .filter(edge =>
+                  doesContain(state.filter, edge.node.frontmatter.categories)
+                )
+                .filter(
+                  edge =>
+                    state.tag === null ||
+                    edge.node.frontmatter.tags.includes(state.tag)
+                )
+              return (
                 <div>
-                  {edges
-                    .filter(edge =>
-                      doesContain(
-                        state.filter,
-                        edge.node.frontmatter.categories
-                      )
-                    )
-                    .filter(
-                      edge =>
-                        state.tag === null ||
-                        edge.node.frontmatter.tags.includes(state.tag)
-                    )
-                    .map(({ node }, index) => (
+                  <h4>
+                    {posts.length} posts ({totalCount} total)
+                  </h4>
+                  <div>
+                    {posts.map(({ node }, index) => (
                       <Post key={index} node={node} />
                     ))}
+                  </div>
                 </div>
-              </div>
-            )}
+              )
+            }}
           />
         )
       }}
