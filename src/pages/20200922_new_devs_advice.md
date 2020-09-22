@@ -5,6 +5,8 @@ categories: ["English"]
 tags: ["Development", "Article", "Career"]
 ---
 
+[Note: This article has also been posted [on Medium](https://medium.com/@lee.sg16/3-pieces-of-realistic-advice-for-people-applying-for-their-first-software-developer-job-eb0f0e419d91)]
+
 You might have felt, at some point in your life, or at least heard about the work experience dilemma. You’re just out of school. You start looking for jobs and search the online job platforms for the positions that look like a good fit for you. Turns out, all those “Entry” or “Junior” positions require 1~2 years of work experience. How can you possibly get work experience if all of the job positions out there require prior work experience?!
 
 Let me be upfront with this. I had 2 years and 8 months of co-op experiences before starting a full time job. To be fair, though, the first 2 years of those times were not very relevant to software development. So it’s fair to say these are advice I would give to myself before that relevant last 8 months co-op term. Also, I struggled for 4 months to find the first full time position, having interviews with at least 30 companies during that period, even after the 8 months co-op. These are some of the things I wish I knew back then.
