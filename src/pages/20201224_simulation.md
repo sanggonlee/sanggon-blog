@@ -5,7 +5,9 @@ categories: ["English"]
 tags: ["Article","Science"]
 ---
 
-If you were like most people, at least once in a life you probably had a doubt whether the world is what it seems to be. These thoughts just occur to us even if we're not conspiracists. Perhaps you thought everyone else might be tricking you like in “The Truman Show”, or perhaps you thought the world is secretly controlled by aliens and some people are aliens in disguise. Or perhaps you thought we are actually game characters living in the game, which is a simulation. In my case, it was some combination of those - I thought everyone else might be able to read my mind, and were pretending not to be able to.
+[Note: This article has also been posted [on Medium](https://lee-sg16.medium.com/3-scientific-arguments-supporting-we-might-be-living-in-a-simulation-52cbb660d475)]
+
+If you were like most people, at least once in a life you probably had a doubt whether the world is what it seems to be. Perhaps you thought everyone else might be tricking you like in “The Truman Show”, or perhaps you thought the world is secretly controlled by aliens and some people are aliens in disguise. Or perhaps you thought we are actually game characters living in the game, which is a simulation. In my case, it was some combination of those - I thought everyone else might be able to read my mind, and were pretending not to be able to.
 
 But regardless of what conspiracy theories you had in mind, I bet ya it was an unfounded theory. It wasn’t based on scientific reasoning. It was just your “gut feeling”, and you couldn’t think of any ways to find the evidence. And that’s how you put that idea aside, and went on with your life.
 
