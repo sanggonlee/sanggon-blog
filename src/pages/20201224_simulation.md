@@ -11,7 +11,7 @@ If you were like most people, at least once in a life you probably had a doubt w
 
 But regardless of what conspiracy theories you had in mind, I bet ya it was an unfounded theory. It wasn’t based on scientific reasoning. It was just your “gut feeling”, and you couldn’t think of any ways to find the evidence. And that’s how you put that idea aside, and went on with your life.
 
-Now what if I tell you, there are actually some scientific arguments or discoveries that support the idea we might actually indeed be living in a simulation? And what’s more, there are more and more discoveries being made supporting it recently, and more and more physicists are supporting this argument? Elon Musk said that the chance that we are not living in a simulation is 1 in 1,000,000,000. Here are three of the arguments why that might be the case.
+Now what if I tell you, there are actually some **scientific** arguments and discoveries that support the idea we might actually indeed be living in a simulation? And what’s more, there are more and more discoveries being made supporting it recently, and more and more physicists are supporting this argument? Elon Musk said that the chance that we are **not** living in a simulation is 1 in 1,000,000,000. Here are three of the arguments why that might be the case.
 
 ## Double Slit Experiment
 
@@ -29,17 +29,19 @@ In 1998 (although the original format of the experiment was by Thomas Young in 1
 
 <img src="https://res.cloudinary.com/dh4ckck4z/image/upload/v1608826515/blog/double_slit_kesv6v.gif" width="300px" />
 
-This result was so mysterious that physicists had to just “accept it”, without understanding why. This concept might be more famously known as Schrödinger’s Cat.
+This result was so mysterious that physicists had to just “accept it”, without understanding why. This concept might be more famously known as "Schrödinger’s Cat".
 
-Do you start to see the connection? People realized that this phenomenon resembles how we render graphics. Things change state based on whether we are observing them or not, similarly to how the things are rendered or not based on whether the player observes them or not in 3D graphics. This is the first argument supporting the world is a simulation.
+Do you start to see the connection? People realized that this phenomenon resembles how we render graphics. Things change state based on whether we are observing them or not, similarly to **how the things are rendered or not based on whether the player observes them or not in 3D graphics**. This is the first argument supporting the world is a simulation.
 
 ## Quantum Entanglement
 
-One of modern physics discoveries is “Quantum Entanglement”. In the simplest terms, it’s a phenomenon where a pair of particles share their states, regardless of how far they are. If one particle in the pair decides its state, the state of the other particle in the pair is instantly decided.
+One of modern physics discoveries is “Quantum Entanglement”. In the simplest terms, it’s a phenomenon where a pair of particles share their states, regardless of how far they are. If one particle in the pair decides its state, the state of the other particle in the pair is **instantly** decided.
 
 <img src="https://www.davidjarvis.ca/wp-content/uploads/2018/05/How-quantum-entanglement-works-700x510.jpg" width="600px" />
 
-Now let’s suppose that one particle in a pair is with us on the Earth, and the other particle is 1 billion light years away from us. Quantum Entanglement states that as soon as the state of the particle on the Earth is determined, the other particle a billion light years away has its state determined. So essentially, some sort of medium carried information between two particles much faster than light. In other words, information (that the particle on the Earth determined its state) somehow travelled much faster than the light here.
+Now let’s suppose that one particle in a pair is with us on the Earth, and the other particle is 1 billion light years away from us. Quantum Entanglement states that as soon as the state of the particle on the Earth is determined, the other particle a billion light years away has its state determined. So essentially, some sort of medium **carried information between two particles much faster than light**. In other words, information (that the particle on the Earth determined its state) somehow travelled much faster than light here.
+
+Does "travelled faster than light" ring a bell for anyone? Correct, Einstein's Relativity Theory states that nothing can travel faster than light. No particles, no matter or energy can travel faster than light. But here what travelled was some form of **information**. Information travelled faster than light.
 
 This seems to suggest that the most fundamental building blocks of the universe are not particles, but information. If the world is a simulation, where it will certainly consist of information (similarly to how computer simulation in our world consists of 0’s and 1’s), it will explain this phenomenon for sure.
 
@@ -53,7 +55,7 @@ Let’s think about it for a moment. Technologies have made immense advancements
 
 If you ask why we would do such a thing, think games, experiments, to name a few. But ultimately, think of all the simulations we’ve created so far. Not all of them have clear purpose; we humans like to create things just because we can, even if they’re not useful.
 
-So say we’ve created this simulation that has humans just like us, and the humans in this simulation will evolve and make technological advancements like us. Won’t these humans in the simulation also create yet another similar simulation? And it just goes on and on? This chain will repeat until the reality - the “true” reality - stops existing, probably due to extinction. And what’s the probability that we are placed in this very top of the chain, the true reality? Wouldn’t it be logical to say that it’s very, very small? This is what Elon Musk means by “one in a billion”.
+So say we’ve created this simulation that has humans just like us, and the humans in this simulation will evolve and make technological advancements like us. Won’t these humans in the simulation **also** create yet another similar simulation? And it just goes on and on? This chain will repeat until the reality - the “true” reality - stops existing, probably due to extinction. And what’s the probability that we are placed in this very top of the chain, the true reality? Wouldn’t it be logical to say that it’s very, very small? This is what Elon Musk means by “one in a billion”.
 
 ## Afterword
 
