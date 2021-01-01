@@ -23,7 +23,7 @@ const Filters = ({ children, toggleFilter }) => {
           `}
           render={({ allMarkdownRemark: { group } }) => (
             <div className="filters-container">
-              <h2>Categories</h2>
+              <h2>Languages</h2>
               <div>
                 {group.map(({ fieldValue }, index) => (
                   <div key={index}>
