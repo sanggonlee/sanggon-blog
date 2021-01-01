@@ -33,7 +33,7 @@ const Tags = ({ children }) => {
                       key={index}
                       onClick={() => filterByTag(fieldValue)}
                     >
-                      <span>#{fieldValue}</span> <span>({totalCount})</span>
+                      <span># {fieldValue}</span> <span>({totalCount})</span>
                     </div>
                   ))}
                 </div>

@@ -6,15 +6,23 @@
   font-family: monospace;
 }
 
+@media (max-width: 600px) {
+  .post-page {
+    margin: 0;
+  }
+}
+
 .post-page > .title {
   font-weight: bold;
   font-size: 32px;
-  max-width: 1000px;
-  margin: 20px;
+  line-height: 32px;
+  text-align: center;
+  margin: 20px 0;
 }
 
 .post-page > .date {
   margin: 20px 0;
+  text-align: center;
 }
 
 .post-page > .content {
