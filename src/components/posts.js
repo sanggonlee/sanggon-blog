@@ -14,7 +14,7 @@ const Posts = ({ children }) => {
             query={graphql`
               query {
                 allMarkdownRemark(
-                  limit: 10
+                  limit: 100
                   sort: { fields: [frontmatter___date], order: DESC }
                 ) {
                   totalCount
