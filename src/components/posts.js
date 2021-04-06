@@ -36,7 +36,7 @@ const Posts = ({ children }) => {
             render={({ allMarkdownRemark: { edges, totalCount } }) => {
               const posts = edges
                 .filter(edge =>
-                  doesContain(state.filter, edge.node.frontmatter.categories)
+                  edge.node.frontmatter.categories && doesContain(state.filter, edge.node.frontmatter.categories)
                 )
                 .filter(
                   edge =>

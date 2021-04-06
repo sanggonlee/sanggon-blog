@@ -13,3 +13,16 @@
     flex: 1;
   }
 }
+
+.reviews-container {
+  padding: 20px 10px;
+}
+
+.review-menu {
+  margin: 12px;
+}
+
+.review-menu > a {
+  color: rgb(121, 182, 242);
+  text-decoration: none;
+}

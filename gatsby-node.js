@@ -4,16 +4,16 @@
  * See: https://www.gatsbyjs.org/docs/node-apis/
  */
 
-const path = require('path');
+const path = require('path')
 
-const kebabCase = (text) => {
-  return text.toLowerCase().replace(' ', '-');
-};
+const kebabCase = text => {
+  return text.toLowerCase().replace(' ', '-')
+}
 
-// You can delete this file if you're not using it
 exports.createPages = (({ graphql, actions }) => {
   const { createPage } = actions;
   const blogPostTemplate = path.resolve('src/components/post-page.js');
+  const reviewsTemplate = path.resolve('src/components/reviews.js');
   return graphql(
     `
       {
@@ -35,15 +35,15 @@ exports.createPages = (({ graphql, actions }) => {
     `
   ).then(result => {
     if (result.errors) {
-      throw result.errors;
+      throw result.errors
     }
 
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-      const { title, date, categories, tags } = node.frontmatter;
-      const path = kebabCase(node.frontmatter.title);
+      const { title, date, categories, tags } = node.frontmatter
+      const path = kebabCase(node.frontmatter.title)
       createPage({
         path,
-        component: blogPostTemplate,
+        component: path.includes('reviews') ? reviewsTemplate : blogPostTemplate,
         context: {
           pathSlug: path,
           id: node.id,
@@ -51,9 +51,9 @@ exports.createPages = (({ graphql, actions }) => {
           date,
           categories,
           tags,
-          html: node.html
-        }
-      });
+          html: node.html,
+        },
+      })
     })
-  });
+  })
 });
