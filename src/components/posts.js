@@ -46,7 +46,7 @@ const Posts = ({ children }) => {
               return (
                 <div>
                   <h4>
-                    {posts.length} posts ({totalCount} total)
+                    {posts.length} posts ({totalCount - 3} total)
                   </h4>
                   <div>
                     {posts.map(({ node }, index) => (
