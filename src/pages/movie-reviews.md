@@ -15,6 +15,30 @@ title: "movie-reviews"
 
 <div>
   <div class="review">
+    <strong>Soul (2020)</strong>
+    <div>2021.04</div>
+    <div>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star-o"></span>
+    </div>
+    픽사 애니메이션들은 왠만해선 실망시키진 않는듯. 어린이들에게는 어떨지 모르겠지만 나에게는 울림이 있었고 재미도 있었다. 내가 딱히 비슷한 입장에 었던것도 아니었지만 왠지 공감하게 된다.
+  </div>
+  <div class="review">
+    <strong>Sound of Metal (2019)</strong>
+    <div>2021.04</div>
+    <div>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star-half-o"></span>
+      <span class="fa fa-star-o"></span>
+    </div>
+    재밌게 봄. 청각 장애를 가지고 있는것이 어떤 느낌이고 그것이 어떻게 결함이 아닐수도 있는지를 관객에게 이해시키기 위해 들인 노력이 돋보이는 작품. 다만 과거나 배경을 설명하는데에 있어서 약간 불친절함은 있었다.
+  </div>
+  <div class="review">
     <strong>미드소마 (2019)</strong>
     <div>2021.04</div>
     <div>
