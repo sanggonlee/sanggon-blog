@@ -15,6 +15,18 @@ title: "movie-reviews"
 
 <div>
   <div class="review">
+    <strong>The Block Island Sound (2020)</strong>
+    <div>2021.05</div>
+    <div>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star-half-o"></span>
+      <span class="fa fa-star-o"></span>
+    </div>
+    코즈믹 호러를 다룬 영화는 그리 많지 않고, 잘 연출하기는 더 어렵다. 공포 자체보다는 서사를 이끌어가는 미스테리에 점수를 더 주고싶다. 재밌었다.
+  </div>
+  <div class="review">
     <strong>Soul (2020)</strong>
     <div>2021.04</div>
     <div>
