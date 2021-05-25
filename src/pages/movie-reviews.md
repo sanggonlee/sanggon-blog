@@ -15,6 +15,30 @@ title: "movie-reviews"
 
 <div>
   <div class="review">
+    <strong>Oxygen (2021)</strong>
+    <div>2021.05</div>
+    <div>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star-o"></span>
+      <span class="fa fa-star-o"></span>
+    </div>
+    베리드(Buried)라는 수작이 강한 기억을 남겨서인지 자꾸 너무 비슷한 부분이 많다는 생각이 들었다. 베리드에서 폐쇄공간이 주는 압박감에 숨이 막힐 정도였다면 여기선 인공지능이 답답해서 숨이 막힌다. 반전에 너무 힘을 줘서 오히려 그 효과가 반감되는 느낌이 있었고 개연성도 조금 떨어져서 아쉬웠지만 플롯 자체는 나쁘지 않았다.
+  </div>
+  <div class="review">
+    <strong>The Vast of Night (2019)</strong>
+    <div>2021.05</div>
+    <div>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star-o"></span>
+      <span class="fa fa-star-o"></span>
+    </div>
+    나쁘지 않았는데 끝부분의 연출이 좀 아쉬웠다. 카메라를 고정해놓고 찍는 롱테이크씬이 많았는데 이건 탁월한 선택이었다고 생각했다. 플롯은 크게 신선한 부분은 없다.
+  </div>
+  <div class="review">
     <strong>The Block Island Sound (2020)</strong>
     <div>2021.05</div>
     <div>
