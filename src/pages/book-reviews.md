@@ -33,7 +33,7 @@ title: "book-reviews"
       <span class="fa fa-star"></span>
       <span class="fa fa-star"></span>
       <span class="fa fa-star"></span>
-      <span class="fa fa-star-o"></span>
+      <span class="fa fa-star-half-o"></span>
       <span class="fa fa-star-o"></span>
     </div>
     영어로 읽었는데 일단 쉬운 문장들로 쓰여져서 쉽게 읽을수 있었다. 해외 1.5세 교포의 입장에서 공감되는 부분이 많았고 러시아라는 나라의 현대 상황에 대해서 많이 알수 있었다 (특히 소비에트 붕괴 이후의 관점에서). 처음엔 Terrible Country라는 제목이 반어법이지 않을까 예상했지만 정말로 내용에서도 그런 뜻이었고 다만 신랄하게 러시아를 비판하는 톤은 아니다. 가슴아픈 결말 때문에 여운이 더 오래 남는다.
