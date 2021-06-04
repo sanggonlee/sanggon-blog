@@ -15,6 +15,18 @@ title: "movie-reviews"
 
 <div>
   <div class="review">
+    <strong>이웃집 토토로 (1988)</strong>
+    <div>2021.05</div>
+    <div>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star-half-o"></span>
+    </div>
+    나는 동심에 대한 깊은 향수를 가지고 있다. 환상과 현실, 꿈을 넘나들며 이야기를 전하는 방식은 지브리 스튜디오 초창기 작품인데도 굉장히 완성도가 높아 지브리의 장인정신을 보여준다. 넷플릭스에 떠서 이제야 보게된 오래된 작품이지만 30년 후에도 전해주는 그 감동은 전혀 바래지 않았다.
+  </div>
+  <div class="review">
     <strong>Oxygen (2021)</strong>
     <div>2021.05</div>
     <div>
@@ -60,7 +72,7 @@ title: "movie-reviews"
       <span class="fa fa-star"></span>
       <span class="fa fa-star-o"></span>
     </div>
-    픽사 애니메이션들은 왠만해선 실망시키진 않는듯. 어린이들에게는 어떨지 모르겠지만 나에게는 울림이 있었고 재미도 있었다. 내가 딱히 비슷한 입장에 었던것도 아니었지만 왠지 공감하게 된다.
+    픽사 애니메이션들은 왠만해선 실망시키진 않는듯. 삶은 꿈이 아니다. 가벼운 느낌으로 다가오지만 본질주의와 실존주의에 대한 깊은 고찰을 다룬다. 또한 깊게 생각하고 보지 않아도 이야기만으로도 재밌다.
   </div>
   <div class="review">
     <strong>Sound of Metal (2019)</strong>
