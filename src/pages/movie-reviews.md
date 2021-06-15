@@ -15,6 +15,30 @@ title: "movie-reviews"
 
 <div>
   <div class="review">
+    <strong>The Invisible Guest (2016)</strong>
+    <div>2021.06</div>
+    <div>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star-half-o"></span>
+      <span class="fa fa-star-o"></span>
+    </div>
+    잘 만들어진 영화다. 나는 이런류의 관객을 농락하는 영화를 좋아한다. 플롯의 (액자식) 구성 자체를 꼬아서 반전의 요소로 활용한 것이 재미있다.
+  </div>
+  <div class="review">
+    <strong>범죄와의 전쟁 (2012)</strong>
+    <div>2021.06</div>
+    <div>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star-half-o"></span>
+      <span class="fa fa-star-o"></span>
+    </div>
+    재밌게 봤다. 건달세계에서의 비열함과 한국사회에 깊이 뿌리박은 혈연문화를 잘 보여줬고 달콤쌉싸름한 결말도 나쁘지 않았다.
+  </div>
+  <div class="review">
     <strong>이웃집 토토로 (1988)</strong>
     <div>2021.05</div>
     <div>
