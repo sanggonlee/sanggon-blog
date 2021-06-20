@@ -15,6 +15,18 @@ title: "movie-reviews"
 
 <div>
   <div class="review">
+    <strong>Run (2020)</strong>
+    <div>2021.06</div>
+    <div>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star-o"></span>
+      <span class="fa fa-star-o"></span>
+    </div>
+    재밌게 봤다. 뒤로 갈수록 더 심장을 쫄깃하게 만드는 연출은 좋았는데 분명 어디선가 본듯한 플롯과 소재여서 신선함은 전혀 없었다.
+  </div>
+  <div class="review">
     <strong>The Invisible Guest (2016)</strong>
     <div>2021.06</div>
     <div>
