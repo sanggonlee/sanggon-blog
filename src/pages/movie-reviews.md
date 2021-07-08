@@ -15,6 +15,30 @@ title: "movie-reviews"
 
 <div>
   <div class="review">
+    <strong>노인을 위한 나라는 없다 (2007)</strong>
+    <div>2021.07</div>
+    <div>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star-o"></span>
+      <span class="fa fa-star-o"></span>
+    </div>
+    어려운 영화였다. 흥미위주의 영화라고 볼수는 없었고 메세지가 있는것 같긴 했는데 모호했다. 여러가지로 관념의 경계를 타파하면서 봐야하는 영화인가 싶기도 했다.
+  </div>
+  <div class="review">
+    <strong>The Imitation Game (2014)</strong>
+    <div>2021.06</div>
+    <div>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star-half-o"></span>
+      <span class="fa fa-star-o"></span>
+    </div>
+    재밌게 봤다. Computer Science 전공한 사람으로써 Alan Turing을 모를수는 없었지만 배경같은건 잘 몰랐고 개인의 생애에 대해서도 몰랐는데 덕분에 조금 알수 있게 되었다. 극적인 효과를 위해서 여기저기 양념을 친 티가 나긴 했다.
+  </div>
+  <div class="review">
     <strong>Run (2020)</strong>
     <div>2021.06</div>
     <div>
