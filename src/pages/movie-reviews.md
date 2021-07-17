@@ -5,12 +5,12 @@ title: "movie-reviews"
 <style type="text/css">
 .review {
   display: flex;
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 .poster {
-  flex: 0 0 100px;
-  height: 200px;
+  flex: 0 0 120px;
+  height: 240px;
   margin-right: 20px;
 }
 .fa {
