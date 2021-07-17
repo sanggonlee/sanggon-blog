@@ -15,5 +15,15 @@ title: "restaurant-reviews"
 
 <div>
   <div class="review">
+    <strong>Ikkousha Ramen</strong>
+    <div>249 Queen St W, Toronto, ON</div>
+    <div>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star-o"></span>
+    </div>
+    일본의 이치랑 라멘을 생각나게 함. 뫄이쩡
   </div>
 </div>

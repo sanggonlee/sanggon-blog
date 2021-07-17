@@ -15,6 +15,18 @@ title: "movie-reviews"
 
 <div>
   <div class="review">
+    <strong>The Woman in Black (2012)</strong>
+    <div>2021.07</div>
+    <div>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star-half-o"></span>
+      <span class="fa fa-star-o"></span>
+      <span class="fa fa-star-o"></span>
+    </div>
+    초반부엔 조금 무서웠는데 중반부부터 너무 안무서워서 놀람. 결말도 난해하다기보다는 이상하다는 느낌.
+  </div>
+  <div class="review">
     <strong>노인을 위한 나라는 없다 (2007)</strong>
     <div>2021.07</div>
     <div>
