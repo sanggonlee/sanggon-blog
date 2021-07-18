@@ -14,6 +14,8 @@ title: "movie-reviews"
   margin-right: 20px;
 }
 .fa {
+  font-size: 20px!important;
+  margin-top: 8px;
   color: orange;
 }
 </style>
@@ -24,19 +26,19 @@ title: "movie-reviews"
 
   <div class="review">
     <div class="poster">
-      <img src="https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_.jpg">
+      <img src="https://lumiere-a.akamaihd.net/v1/images/p_blackwidow_disneyplus_21043-1_63f71aa0.jpeg">
     </div>
     <div>
-      <strong>Arrival (2016)</strong>
-      <div>2016.11, 2021.07</div>
+      <strong>Black Widow (2021)</strong>
+      <div>2021.07</div>
       <div>
         <span class="fa fa-star"></span>
         <span class="fa fa-star"></span>
         <span class="fa fa-star"></span>
-        <span class="fa fa-star"></span>
-        <span class="fa fa-star"></span>
+        <span class="fa fa-star-o"></span>
+        <span class="fa fa-star-o"></span>
       </div>
-      감히 인셉션, 매트릭스에 비견하고 싶은 작품이다. 보면서 황홀함을 느꼈던 손꼽히는 영화였고 내가 유일하게 두번 본 영화이기도 하다.
+      무난했던 액션영화. 재밌게 봄. 특별히 인상적이었던 부분은 없는듯.
     </div>
   </div>
 
@@ -76,6 +78,24 @@ title: "movie-reviews"
     </div>
   </div>
 
+  <div class="review">
+    <div class="poster">
+      <img src="https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_.jpg">
+    </div>
+    <div>
+      <strong>Arrival (2016)</strong>
+      <div>2016.11, 2021.06</div>
+      <div>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+      </div>
+      감히 인셉션, 매트릭스에 비견하고 싶은 작품이다. 보면서 황홀함을 느꼈던 손꼽히는 영화였고 내가 유일하게 두번 본 영화이기도 하다.
+    </div>
+  </div>
+  
   <div class="review">
     <div class="poster">
       <img src="https://m.media-amazon.com/images/M/MV5BOTgwMzFiMWYtZDhlNS00ODNkLWJiODAtZDVhNzgyNzJhYjQ4L2ltYWdlXkEyXkFqcGdeQXVyNzEzOTYxNTQ@._V1_.jpg">
