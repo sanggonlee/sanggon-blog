@@ -26,6 +26,42 @@ title: "movie-reviews"
 
   <div class="review">
     <div class="poster">
+      <img src="https://resizing.flixster.com/fPOAUM2K2MTyiWGpUdltM3kNl0Q=/206x305/v2/https://flxt.tmsimg.com/assets/p177092_p_v10_ab.jpg">
+    </div>
+    <div>
+      <strong>셔터 (Shutter) (2004)</strong>
+      <div>2021.08</div>
+      <div>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star-half-o"></span>
+        <span class="fa fa-star-o"></span>
+      </div>
+      다 보고나서 든 생각은 듣던거보다 무섭지 않은데? 였지만 그날밤 자다가 설핏 깼을때 잠을 설치게 만들 정도로는 충분했다. 이렇게 오래전에 나온 영화인줄도 몰랐다. 꽤 잘 만든 공포영화.
+    </div>
+  </div>
+  
+  <div class="review">
+    <div class="poster">
+      <img src="https://images.fathomevents.com/image/upload/w_360,dpr_1.5/fl_attachment/v1617643589/Events/2021/1513/Silence_ofthe_Lambs_1000x1480_Fathom_Website.jpg.jpg">
+    </div>
+    <div>
+      <strong>양들의 침묵 (The Silence of the Lambs) (1991)</strong>
+      <div>2021.08</div>
+      <div>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star-half-o"></span>
+        <span class="fa fa-star-o"></span>
+      </div>
+      재밌게 봄. 매력적인 악역이라는 것의 전형을 보여준 영화. 꽤 오래전 나온 영화지만 몰입도는 최고다. 이 영화를 따라해서 지금은 클리셰가 되버린 것들도 보였다.
+    </div>
+  </div>
+  
+  <div class="review">
+    <div class="poster">
       <img src="https://lumiere-a.akamaihd.net/v1/images/p_blackwidow_disneyplus_21043-1_63f71aa0.jpeg">
     </div>
     <div>
