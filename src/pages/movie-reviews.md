@@ -26,6 +26,24 @@ title: "movie-reviews"
 
   <div class="review">
     <div class="poster">
+      <img src="http://photos.hancinema.net/photos/photo1349862.jpg">
+    </div>
+    <div>
+      <strong>모가디슈 (Escape from Mogadishu) (2021)</strong>
+      <div>2021.08</div>
+      <div>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star-half-o"></span>
+        <span class="fa fa-star-o"></span>
+      </div>
+      재밌게 봤다. 소재도 좋았고 현장감을 정말 잘 살린점이 인상적이다. 남북분단을 소재로 활용한 것은 조금 식상한 면이 있었지만 감정선을 과하지 않게 처리한 점이 마음에 들었다.
+    </div>
+  </div>
+  
+  <div class="review">
+    <div class="poster">
       <img src="https://resizing.flixster.com/fPOAUM2K2MTyiWGpUdltM3kNl0Q=/206x305/v2/https://flxt.tmsimg.com/assets/p177092_p_v10_ab.jpg">
     </div>
     <div>
