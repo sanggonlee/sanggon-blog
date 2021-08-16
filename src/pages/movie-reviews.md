@@ -26,7 +26,7 @@ title: "movie-reviews"
 
   <div class="review">
     <div class="poster">
-      <img src="http://photos.hancinema.net/photos/photo1349862.jpg">
+      <img src="https://t1.daumcdn.net/movie/8606d47d1447d6c8f77e9dfe91aba7ce53c09488">
     </div>
     <div>
       <strong>모가디슈 (Escape from Mogadishu) (2021)</strong>
