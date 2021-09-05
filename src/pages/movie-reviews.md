@@ -26,6 +26,24 @@ title: "movie-reviews"
 
   <div class="review">
     <div class="poster">
+      <img src="https://upload.wikimedia.org/wikipedia/en/2/28/The_8th_Night_poster.jpg">
+    </div>
+    <div>
+      <strong>제8일의 밤 (2021)</strong>
+      <div>2021.09</div>
+      <div>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star-o"></span>
+        <span class="fa fa-star-o"></span>
+      </div>
+      설정도 정교하지 않고 연출도, 플롯도 평타정도만 치는 수준. 완성도가 높은 영화라고 할수는 없지만 오컬트 영화를 좋아하는지라 나름 재밌게 봤다.
+    </div>
+  </div>
+  
+  <div class="review">
+    <div class="poster">
       <img src="https://t1.daumcdn.net/movie/8606d47d1447d6c8f77e9dfe91aba7ce53c09488">
     </div>
     <div>
