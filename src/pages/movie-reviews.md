@@ -26,6 +26,42 @@ title: "movie-reviews"
 
   <div class="review">
     <div class="poster">
+      <img src="https://upload.wikimedia.org/wikipedia/en/8/81/Poster-pursuithappyness.jpg">
+    </div>
+    <div>
+      <strong>The Pursuit of Happyness (2006)</strong>
+      <div>2021.09</div>
+      <div>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star-half-o"></span>
+        <span class="fa fa-star-o"></span>
+      </div>
+      실화바탕이라는 것이 중심적인 역할을 해준 영화. 1980년대 까딱하면 거리에 내몰릴 흑인 서민층의 삶을 보는것은 정말 흡입력이 있었고 도저히 믿기 어려운 크리스 가드너의 성공신화는 오직 실화였기에 생명력을 얻었다. 기대했던 것만큼은 아니었지만 재밌게 봤다.
+    </div>
+  </div>
+  
+  <div class="review">
+    <div class="poster">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg/220px-Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg">
+    </div>
+    <div>
+      <strong>Shang-Chi and the Legend of the Ten Rings (2021)</strong>
+      <div>2021.09</div>
+      <div>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star-half-o"></span>
+        <span class="fa fa-star-o"></span>
+      </div>
+      꽤 재밌게 봤다. 액션영화로써의 액션은 충분히 보여준것 같고 그래픽도 좋았다. 유머요소도 괜찮았다.
+    </div>
+  </div>
+  
+  <div class="review">
+    <div class="poster">
       <img src="https://upload.wikimedia.org/wikipedia/en/2/28/The_8th_Night_poster.jpg">
     </div>
     <div>
